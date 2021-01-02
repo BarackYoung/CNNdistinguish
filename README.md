@@ -1,0 +1,2 @@
+# CNNdistinguish
+pytorch使用CNN卷积神经网络进行手写体识别
